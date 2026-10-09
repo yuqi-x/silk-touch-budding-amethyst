@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "silk_touch_budding_amethyst",
+  "name": "Silk Touch Budding Amethyst",
+  "version": "1.0.0",
+  "environment": "*",
+  "license": "MIT",
+  "authors": [
+    "yuqi"
+  ],
+  "description": "让紫水晶母岩被精准采集工具挖掘时掉落自身。纯数据改动，服务端装即全服生效。",
+  "depends": {
+    "minecraft": "~26.2-",
+    "java": ">=21"
+  }
+}
